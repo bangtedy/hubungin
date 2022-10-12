@@ -2,7 +2,9 @@
 title: "Deskripsi Mata Kuliah"
 ---
 
-Mata kuliah EKMA 4367 Hubungan Industrial merupakan lanjutan dari mata kuliah Manajemen Sumber Daya Manusia (MSDM). Melalui mata kuliah ini, Anda akan dapat memahami konsep, dasar Hubungan Industrial, struktur di dalam Hubungan Industrial termasuk di dalamnya Serikat Pekerja, proses di dalam praktik Hubungan Industrial khususnya mengenai perjanjian kerja bersama, isu mengenai biaya kontrak perburuhan yang berhubungan dengan pemberian penghargaan penyelesaian konflik serta praktik Hubungan Industrial di dalam kerangka hukum ketenagakerjaan di Indonesia. Mata kuliah ini dirancang untuk membekali Anda dengan teori dan praktik ketenagakerjaan di Indonesia yang menjadi faktor kunci dalam penyelesaian permasalahan ketenagakerjaan dalam suatu organisasi.
+Mata kuliah Hubungan Industrial/EKMA 4367 merupakan lanjutan dari mata kuliah Manajemen Sumber Daya Manusia (MSDM). Melalui mata kuliah ini, Anda akan dapat memahami konsep, dasar Hubungan Industrial, struktur di dalam Hubungan Industrial termasuk di dalamnya Serikat Pekerja, proses di dalam praktik Hubungan Industrial khususnya mengenai perjanjian kerja bersama, isu mengenai biaya kontrak perburuhan yang berhubungan dengan pemberian penghargaan penyelesaian konflik serta praktik Hubungan Industrial di dalam kerangka hukum ketenagakerjaan di Indonesia. 
+
+Mata kuliah ini dirancang untuk membekali Anda dengan teori dan praktik ketenagakerjaan di Indonesia yang menjadi faktor kunci dalam penyelesaian permasalahan ketenagakerjaan dalam suatu organisasi.
 
 Setelah mempelajari mata kuliah Hubungan Industrial, Anda diharapkan memiliki pengetahuan yang komprehensif tentang konsep dasar, struktur dan proses Hubungan Industrial dalam kerangka hukum ketenagakerjaan di Indonesia. Secara lebih khusus, setelah mempelajari mata kuliah ini Anda diharapkan akan mampu menjelaskan: 
 
@@ -23,6 +25,8 @@ dalam 6 modul, yang disusun sebagai berikut:
 - Modul 5.  Konflik dan Penyelesaian Perselisihan Hubungan Industrial 
 - Modul 6.  Praktik Hubungan Industrial di Indonesia 
 
-BUku Rujukan:
+Buku Rujukan:
 
 * Ariani, Dorothea Wahyu (2014). Hubungan Industrial EKMA4367. Tangerang Selatan: Universitas Terbuka.
+* Frege, Carola and John Kelly, (2020). Comparative Employment Relations in the Global Economy. Routledge.
+* Robbins, S. P. (2017). Organizational Behaviour 9th edition. Pearson Education Limited
