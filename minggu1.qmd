@@ -1,0 +1,76 @@
+---
+title: "KARAKTERISTIK DAN KONTEKS HUBUNGAN INDUSTRIAL"
+format: 
+  revealjs:
+    theme: beige
+editor: visual
+---
+
+## Pengertian Hubungan Industrial
+
+-   Hubungan industrial adalah hubungan di antara berbagai pihak: internal, pihak internal dengan eksternal perusahaan/organisasi diatur dalam sistem pengaturan kerja atau pekerjaan.
+
+-   Hubungan industrial melibatkan pekerja, manajemen atau pengusaha dan pemerintah untuk menciptakan perilaku dan interaksi antarindividu dan antarkelompok ditempat kerja
+
+## Pengertian Hubungan Industrial
+
+-   Tujuan: tercipta pengaturan kerja yang baik secara ekonomi , sosial, dan politik.
+
+-   Paradigma baru dalam industrial berisi beberapa pekerjaan dan inovasi manajemen sumber daya manusia dan lebih menekankan pada hubungan antar karyawan.
+
+-   Manifestasi konflik dalam hubungan industrial diselesaikan dengan komunikasi yang lebih baik.
+
+## Pelaku
+
+![](pelaku-hubungin.png)
+
+## Tiga Pendekatan Studi Hubungan Industrial
+
+1.  Pendekatan Keseragaman/Kesamaan. Asumsi: setiap organisasi merupakan suatu kesatuan yang terintegrasi dengan sasaran atau tujuan yang sama.
+    -   Pandangan keseragaman mendorong timbulnya tiga aliran dalam manajemen yaitu: manajemen ilmiah, hubungan antara karyawan, dan pandangan baru dalam hubungan antarkaryawan.
+2.  Pendekatan Keberagaman. Pendekatan keberagaman memungkinkan terjadinya perbedaan kelompok peminatan dan berbagai bentuk loyalitas.
+
+## Pendekatan \...lanj
+
+3.  Pendekatan Radikal. Pandangan ini mengenal konflik fundamental dan melekat pada konflik kepentingan antara karyawan dan pengusaha di tempat kerja.
+
+![](pendekatan-hubungin.png)
+
+## EVOLUSI TEORI & METODE DALAM HUBUNGAN INDUSTRIAL
+
+-   Teori hubungan industrial mengalami evolusi. Teori yang mendasari: teori biaya transaksi, teori-teori dalam ilmu ekonomi, sosiologi, psikologi, dan politik.
+
+-   Dua perspektif yang digunakan, yaitu perspektif fungsional, dan perspektif konflik atau perspektif kesatuan dan konflik kelas, serta pendekatan Marxist dan konflik kelas juga digunakan dalam pengembangan hubungan industrial.
+
+## HUBUNGAN INDUSTRIAL & MANAJEMEN SDM
+
+-   Hubungan industrial terkait dengan berbagai disiplin ilmu lain, seperti manajemen sumber daya manusia, strategi organisasi, dan perilaku organisasional
+-   Hubungan industrial--\> hubungan kerja yang banyak menimbulkan konflik, karena ada berbagai kepentingan yang bertentangan.
+
+## 4 Elemen Kunci MSDM
+
+-   Keyakinan dan asumsi yang mendasar,
+-   Berkaitan dengan strategi,
+-   Tanggung jawab manajerial dalam manajemen SDM,
+-   Perhatian pada tugas organisasional yang digunakan dalam implementasi kebijakan.
+
+## 2 Pendekatan MSDM
+
+-   Model keras yang berfokus pada organisasi, dan model lunak yang berfokus pada karyawan.
+-   Manajemen SDM dapat sebagai tantangan dalam keberadaan serikat pekerja, namun manajemen SDM juga didukung keberadaannya oleh serikat pekerja
+
+## HUBUNGAN INDUSTRIAL & STRATEGI ORGANISASI
+
+-   Strategi mengendalikan kinerja karyawan dan berpengaruh dalam perilaku karyawan melalui struktur organisasi yang sesuai dengan strategi organisasi.
+
+-   Pengaturan karyawan melalui strategi organisasi menggunakan dua pendekatan yaitu: pendekatan universal, dan pendekatan situasional
+
+## HUBUNGAN INDUSTRIAL & PERILAKU ORGANISASIONAL
+
+-   Hubungan industrial dipengaruhi oleh konsep perilaku organisasional: kepuasaan kerja dan kinerja, modal sosial, komitmen organisasional, kepercayaan, keadilan, pertukaran pemimpin dan pengikut, dan dukungan organisasi persepsian.
+
+    -   Karyawan yang merasa puas, kinerjanya baik, mempunyai modal sosial yang baik dengan rekan kerja, pimpinan, dan anak buahnya, komitmen tinggi, saling percaya dengan orang lain, dan merasakan keadilan dalam organisasi maka hubungan industrialnya lebih baik dan serikat pekerja dapat tumbuh subur.
+
+## BERBAGAI DISIPLIN ILMU YANG BERPENGARUH PADA KONSEP HUBUNGAN INDUSTRIAL
+
+![](disiplin-ilmu.png)
