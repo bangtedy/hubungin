@@ -3,6 +3,8 @@ title: "KARAKTERISTIK DAN KONTEKS HUBUNGAN INDUSTRIAL"
 format: 
   revealjs:
     theme: beige
+    chalkboard: 
+      theme: chalkboard
 editor: visual
 ---
 
