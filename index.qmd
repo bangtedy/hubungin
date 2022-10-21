@@ -5,7 +5,7 @@ title: "Hubungan Industrial"
 ## Materi Tutorial
 
 1. Minggu 1: [Karakteristik dan Konteks Hubungan Industrial](https://bangtedy.github.io/hubungin/minggu1.html)
-2. Minggu 2: [Serikat Pekerja]
+2. Minggu 2: [Serikat Pekerja](https://bangtedy.github.io/hubungin/minggu2.html)
 3. Minggu 3: [Mengadakan Unit Perjanjian Kerja Bersama]
 4. Minggu 4: [Negosiasi Perjanjian]
 5. Minggu 5: [Biaya Kontrak Perburuhan]
