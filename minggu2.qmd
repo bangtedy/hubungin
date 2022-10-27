@@ -3,7 +3,7 @@ title: "Serikat Pekerja"
 author: "Tedy Herlambang"
 format: 
   revealjs:
-    theme: blood
+    theme: dark
     chalkboard: 
       theme: chalkboard
 ---

@@ -2,10 +2,9 @@
 title: "KARAKTERISTIK DAN KONTEKS HUBUNGAN INDUSTRIAL"
 format: 
   revealjs:
-    theme: beige
+    theme: dark
     chalkboard: 
       theme: chalkboard
-editor: visual
 ---
 
 ## Pengertian Hubungan Industrial
